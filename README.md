@@ -1,7 +1,8 @@
 <h1 align="center"> Challenge Alura </h1>
 
 <p align="center">
-<img width="500" height="500" alt="Amigo SeCreto" src="https://github.com/user-attachments/assets/b9855a29-f705-4f5e-a48c-490168d4b015" />
+![Imagem do WhatsApp de 2025-09-01 à(s) 00 41 07_adab7947](https://github.com/user-attachments/assets/424a0c9e-88c0-4792-834a-95707fd7341e)
+
 </p>
 
 
