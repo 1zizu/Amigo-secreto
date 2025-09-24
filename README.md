@@ -1,7 +1,8 @@
 <h1 align="center"> Challenge Alura </h1>
 
 <p align="center">
-![Imagem amigo secreto jpg](https://github.com/user-attachments/assets/06103bed-8196-47fe-b9d1-dbb65c82634d)
+![Amigo secreto jpg](https://github.com/user-attachments/assets/ffdee5e0-0998-45bc-9834-b337fd9efc25)
+
 </p>
 
 
