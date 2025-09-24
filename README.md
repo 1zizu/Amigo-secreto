@@ -34,7 +34,7 @@ Projeto desenvolvido proposto como desafio no curso ``Praticando Lógica de prog
 
 Este programa simulará a brincadeira do Amigo Secreto, da qual o usuário vai inserir os participantes (amigos), adicioná-los a lista e sorteá-los.
 
-<img width="1870" height="924" alt="Capturar" src="https://github.com/user-attachments/assets/e8340883-f167-4fa0-8ba0-3af2d4a7771d" />
+<img width="1870" height="924" alt="Capturar" src="https://github.com/user-attachments/assets/0caa08c0-6312-45a0-8160-713edb8baba4" />
 
 
 # 🔨 Funcionalidades do Projeto
