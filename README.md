@@ -1,8 +1,7 @@
 <h1 align="center"> Challenge Alura </h1>
 
 <p align="center">
-![Imagem do WhatsApp de 2025-09-01 à(s) 00 41 07_adab7947](https://github.com/user-attachments/assets/424a0c9e-88c0-4792-834a-95707fd7341e)
-
+![Imagem amigo secreto jpg](https://github.com/user-attachments/assets/06103bed-8196-47fe-b9d1-dbb65c82634d)
 </p>
 
 
