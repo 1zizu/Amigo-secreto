@@ -1,14 +1,15 @@
-<h1 align="center">Challenge Alura</h1>
+# Challenge Alura
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4bc40f64-208a-43aa-8147-c04a0dff8310" alt="Imagem do WhatsApp" width="400"/>
 </p>
 
 <div align="center">
-  ![Status](https://img.shields.io/badge/STATUS-FINALIZADO-brightgreen?style=for-the-badge) 
-  ![Data de Lançamento](https://img.shields.io/badge/LANÇAMENTO-Agosto-800080?style=for-the-badge) 
-  ![Last Commit](https://img.shields.io/badge/ÚLTIMO%20COMMIT-today-FFD700?style=for-the-badge)
+  ![Status](https://img.shields.io/badge/STATUS-FINALIZADO-brightgreen?style=for-the-badge)
+  ![Data de Lancamento](https://img.shields.io/badge/LANCAMENTO-Agosto-800080?style=for-the-badge)
+  ![Last Commit](https://img.shields.io/badge/ULTIMO_COMMIT-today-FFD700?style=for-the-badge)
 </div>
+
 
 # Tópicos
 * [Descrição do projeto](#descrição-do-projeto)
