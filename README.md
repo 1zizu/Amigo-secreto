@@ -1,8 +1,9 @@
-<h1 align="center"> Challenge Alura </h1>
+<h1 align="center">Challenge Alura</h1>
 
 <p align="center">
-![Amigo secreto jpg](https://github.com/user-attachments/assets/ffdee5e0-0998-45bc-9834-b337fd9efc25)
+  <img src="https://github.com/user-attachments/assets/ffdee5e0-0998-45bc-9834-b337fd9efc25" alt="Amigo secreto" width="400">
 </p>
+
 
 
 
