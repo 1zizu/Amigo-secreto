@@ -2,7 +2,6 @@
 
 <p align="center">
 ![Amigo secreto jpg](https://github.com/user-attachments/assets/ffdee5e0-0998-45bc-9834-b337fd9efc25)
-
 </p>
 
 
